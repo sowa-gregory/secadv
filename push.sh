@@ -1,0 +1,1 @@
+docker push sowisz/sec_adv_check:latest
